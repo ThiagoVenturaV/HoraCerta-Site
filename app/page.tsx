@@ -469,7 +469,7 @@ export default function Home() {
       <footer className="site-footer">
         <div className="shell footer-grid">
           <div><a className="brand brand-light" href="#inicio"><CapsuleMark /><span>Hora Certa</span></a><p>Hora Certa — lembretes de medicamentos para Android.</p></div>
-          <nav aria-label="Links do rodapé"><a href="#recursos">Recursos</a><a href="#como-funciona">Como funciona</a><a href="#duvidas">Dúvidas</a><a href="https://github.com/ThiagoVenturaV" rel="noreferrer">Código-fonte</a></nav>
+          <nav aria-label="Links do rodapé"><a href="#recursos">Recursos</a><a href="#como-funciona">Como funciona</a><a href="#duvidas">Dúvidas</a><a href="https://github.com/ThiagoVenturaV/HoraCerta-Android" rel="noreferrer">Código-fonte</a></nav>
         </div>
       </footer>
     </main>
