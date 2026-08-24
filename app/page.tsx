@@ -23,7 +23,7 @@ import {
   Star,
 } from 'lucide-react';
 
-const downloadPath = '/downloads/HoraCerta-v0.1.0.apk';
+const downloadPath = 'https://github.com/ThiagoVenturaV/HoraCerta-Android/releases/latest/download/HoraCerta-v0.1.0.apk';
 
 const benefits = [
   {
